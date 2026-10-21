@@ -1,0 +1,242 @@
+[
+  {
+    "id": "p01",
+    "slug": "atelier-wool-overcoat",
+    "name": "Atelier Wool Overcoat",
+    "category": "Outerwear",
+    "gender": "Women",
+    "price": 18900,
+    "color": "Charcoal",
+    "tone": "#3a3532",
+    "fabric": "Double-faced merino wool",
+    "description": "A softly structured overcoat cut from double-faced merino. Dropped shoulders, hand-finished seams and a fluid drape that moves with you.",
+    "sizes": ["XS", "S", "M", "L", "XL"],
+    "stock": 14,
+    "featured": true,
+    "isNew": true,
+    "images": [
+      "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?w=1200&q=80",
+      "https://images.unsplash.com/photo-1520975954732-35dd22299614?w=1200&q=80"
+    ]
+  },
+  {
+    "id": "p02",
+    "slug": "sculpted-linen-blazer",
+    "name": "Sculpted Linen Blazer",
+    "category": "Tailoring",
+    "gender": "Men",
+    "price": 12400,
+    "color": "Sand",
+    "tone": "#b9a58a",
+    "fabric": "Belgian linen",
+    "description": "Unlined Belgian linen blazer with a sculpted shoulder and patch pockets. Made for warm evenings and long lunches.",
+    "sizes": ["S", "M", "L", "XL"],
+    "stock": 20,
+    "featured": true,
+    "isNew": false,
+    "images": [
+      "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?w=1200&q=80",
+      "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=1200&q=80"
+    ]
+  },
+  {
+    "id": "p03",
+    "slug": "silk-slip-dress",
+    "name": "Silk Slip Dress",
+    "category": "Dresses",
+    "gender": "Women",
+    "price": 9800,
+    "color": "Ivory",
+    "tone": "#e8dfd1",
+    "fabric": "Mulberry silk charmeuse",
+    "description": "Bias-cut mulberry silk that falls in a single clean line. Adjustable straps and a quiet sheen for day into night.",
+    "sizes": ["XS", "S", "M", "L"],
+    "stock": 9,
+    "featured": true,
+    "isNew": true,
+    "images": [
+      "https://images.unsplash.com/photo-1595777457583-95e059d581b8?w=1200&q=80",
+      "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?w=1200&q=80"
+    ]
+  },
+  {
+    "id": "p04",
+    "slug": "supima-essential-tee",
+    "name": "Supima Essential Tee",
+    "category": "Essentials",
+    "gender": "Men",
+    "price": 1890,
+    "color": "Optic White",
+    "tone": "#f1efea",
+    "fabric": "Supima cotton jersey, knitted in Tirupur",
+    "description": "Heavyweight Supima cotton jersey with a clean crew neck. Garment-washed for softness that lasts wash after wash.",
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "stock": 60,
+    "featured": false,
+    "isNew": false,
+    "images": [
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=1200&q=80",
+      "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?w=1200&q=80"
+    ]
+  },
+  {
+    "id": "p05",
+    "slug": "nappa-leather-jacket",
+    "name": "Nappa Leather Jacket",
+    "category": "Outerwear",
+    "gender": "Men",
+    "price": 24500,
+    "color": "Noir",
+    "tone": "#1b1a19",
+    "fabric": "Vegetable-tanned nappa leather",
+    "description": "A minimal biker silhouette in buttery nappa. Matte hardware, quilted lining and a fit that softens with every wear.",
+    "sizes": ["S", "M", "L", "XL"],
+    "stock": 6,
+    "featured": true,
+    "isNew": false,
+    "images": [
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=1200&q=80",
+      "https://images.unsplash.com/photo-1617137968427-85924c800a22?w=1200&q=80"
+    ]
+  },
+  {
+    "id": "p06",
+    "slug": "pleated-wide-trouser",
+    "name": "Pleated Wide Trouser",
+    "category": "Tailoring",
+    "gender": "Women",
+    "price": 7600,
+    "color": "Taupe",
+    "tone": "#8d7f72",
+    "fabric": "Wool-viscose twill",
+    "description": "High-rise trousers with deep front pleats and a wide, fluid leg. Pressed creases that hold their line all day.",
+    "sizes": ["XS", "S", "M", "L", "XL"],
+    "stock": 18,
+    "featured": false,
+    "isNew": true,
+    "images": [
+      "https://images.unsplash.com/photo-1509631179647-0177331693ae?w=1200&q=80",
+      "https://images.unsplash.com/photo-1469334031218-e382a71b716b?w=1200&q=80"
+    ]
+  },
+  {
+    "id": "p07",
+    "slug": "brushed-loopback-hoodie",
+    "name": "Brushed Loopback Hoodie",
+    "category": "Essentials",
+    "gender": "Men",
+    "price": 3490,
+    "color": "Stone",
+    "tone": "#a8a39b",
+    "fabric": "Organic cotton loopback fleece",
+    "description": "450 GSM organic loopback, brushed inside for warmth. Relaxed shoulder, double-layer hood and ribbed cuffs.",
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "stock": 32,
+    "featured": false,
+    "isNew": true,
+    "images": [
+      "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?w=1200&q=80",
+      "https://images.unsplash.com/photo-1576566588028-4147f3842f27?w=1200&q=80"
+    ]
+  },
+  {
+    "id": "p08",
+    "slug": "selvedge-straight-denim",
+    "name": "Selvedge Straight Denim",
+    "category": "Essentials",
+    "gender": "Men",
+    "price": 5900,
+    "color": "Indigo",
+    "tone": "#2c3a52",
+    "fabric": "13.5 oz Japanese selvedge",
+    "description": "Rope-dyed Japanese selvedge with a timeless straight leg. Raw finish that fades to tell your story.",
+    "sizes": ["28", "30", "32", "34", "36"],
+    "stock": 24,
+    "featured": false,
+    "isNew": false,
+    "images": [
+      "https://images.unsplash.com/photo-1542272604-787c3835535d?w=1200&q=80",
+      "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=1200&q=80"
+    ]
+  },
+  {
+    "id": "p09",
+    "slug": "draped-satin-blouse",
+    "name": "Draped Satin Blouse",
+    "category": "Dresses",
+    "gender": "Women",
+    "price": 2390,
+    "color": "Champagne",
+    "tone": "#d4bf9f",
+    "fabric": "Crepe-back satin",
+    "description": "A softly draped cowl neckline in crepe-back satin. Easy to tuck, easier to love.",
+    "sizes": ["XS", "S", "M", "L"],
+    "stock": 22,
+    "featured": false,
+    "isNew": false,
+    "images": [
+      "https://images.unsplash.com/photo-1483985988355-763728e1935b?w=1200&q=80",
+      "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?w=1200&q=80"
+    ]
+  },
+  {
+    "id": "p10",
+    "slug": "cashmere-crew-knit",
+    "name": "Cashmere Crew Knit",
+    "category": "Knitwear",
+    "gender": "Women",
+    "price": 11200,
+    "color": "Oatmeal",
+    "tone": "#cbbba4",
+    "fabric": "Grade-A Mongolian cashmere",
+    "description": "Two-ply cashmere knitted on fine gauge for a light, cloud-soft hand. A forever piece.",
+    "sizes": ["XS", "S", "M", "L", "XL"],
+    "stock": 12,
+    "featured": true,
+    "isNew": true,
+    "images": [
+      "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?w=1200&q=80",
+      "https://images.unsplash.com/photo-1525507119028-ed4c629a60a3?w=1200&q=80"
+    ]
+  },
+  {
+    "id": "p11",
+    "slug": "merino-polo-knit",
+    "name": "Merino Polo Knit",
+    "category": "Knitwear",
+    "gender": "Men",
+    "price": 4800,
+    "color": "Forest",
+    "tone": "#34443a",
+    "fabric": "Extra-fine merino",
+    "description": "Fully-fashioned merino polo with a three-button placket. Breathable, refined, endlessly versatile.",
+    "sizes": ["S", "M", "L", "XL"],
+    "stock": 16,
+    "featured": false,
+    "isNew": false,
+    "images": [
+      "https://images.unsplash.com/photo-1617137968427-85924c800a22?w=1200&q=80",
+      "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?w=1200&q=80"
+    ]
+  },
+  {
+    "id": "p12",
+    "slug": "column-maxi-dress",
+    "name": "Column Maxi Dress",
+    "category": "Dresses",
+    "gender": "Women",
+    "price": 13600,
+    "color": "Noir",
+    "tone": "#201e1d",
+    "fabric": "Stretch crepe",
+    "description": "A sleek column silhouette in heavy stretch crepe with a low back. Pure line, zero excess.",
+    "sizes": ["XS", "S", "M", "L"],
+    "stock": 7,
+    "featured": true,
+    "isNew": false,
+    "images": [
+      "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?w=1200&q=80",
+      "https://images.unsplash.com/photo-1469334031218-e382a71b716b?w=1200&q=80"
+    ]
+  }
+]
